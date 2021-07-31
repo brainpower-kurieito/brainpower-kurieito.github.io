@@ -1,1 +1,0 @@
-# brainpower-kurieito.github.io
