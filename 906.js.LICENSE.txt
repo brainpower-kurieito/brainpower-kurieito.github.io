@@ -2,6 +2,10 @@
   !*** ./node_modules/phaser/dist/phaser.js ***!
   \********************************************/
 
+/*!************************************************************************!*\
+  !*** ./node_modules/phaser3-rex-plugins/plugins/modal.js + 29 modules ***!
+  \************************************************************************/
+
 /**
  * @author       Florian Vazelle
  * @author       Geoffrey Glaive
